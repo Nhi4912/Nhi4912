@@ -1,11 +1,8 @@
 Hi, I'm Nhi
 ===========================
 
-Frontend Developer 👨‍💻
-------------------
-
-* 🌍  I'm based in Ho Chi Minh city, Vietnam
-* ✉️  You can contact me at [thaonhi8a8@gmail.com](mailto:thaonhi8a8@gmail.com)
+* Frontend Developer at Employment Hero 👨‍💻
+* I'm based in Ho Chi Minh city, Vietnam
 
 <div>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nhi-n-01ba31184/" target="_blank">
